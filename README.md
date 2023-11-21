@@ -13,9 +13,9 @@
 
 You can use this tool to easily manage participants. Players can join or leave the queue using specific commands。
 
-## 使用說明
+## Instructions
 
-### OBS設定
+### OBS Setting
 1. Open OBS, add a web browser source, and set the URL to `https://sankagata-tool.firebaseapp.com`.
 2. Set the dimensions to `1920 x 1080`` (recommended).
 3. Use the interactive button alongside the OBS browser window.
